@@ -242,26 +242,6 @@ href="./css/style.css">
 
     </footer>
 
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- MDB -->
     <script
       type="text/javascript"
