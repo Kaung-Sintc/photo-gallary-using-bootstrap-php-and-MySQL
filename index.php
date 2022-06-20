@@ -137,11 +137,10 @@ href="./css/style.css">
             <div class="col-lg4 col-md-4 col-12">
             <img src="img/digital art 5.jpg"  class="img-fluid mb-3">
             </div>
-            </a>
-           
           </div>
         </div> 
     </section>
+       </a>
 
 
     <a  id="flowers"> 
